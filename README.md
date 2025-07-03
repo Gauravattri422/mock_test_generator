@@ -1,6 +1,3 @@
-Here's the cleaned-up `README.md` file with **all emojis removed**, and formatted properly for a public GitHub repository:
-
----
 
 ````markdown
 # Mock Test Generator using OpenAI
