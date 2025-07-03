@@ -34,29 +34,6 @@ Design your own tests based on topic, difficulty, question type, and more — pe
   - Performance classification (Excellent / Good / Practice more)
   - Full question review with correct and incorrect answers highlighted
 
----
-
-## Demo Screenshots
-
-![Test Setup](screenshots/screenshot-1.png)
-![Test Window](screenshots/screenshot-2.png)
-![Result Page](screenshots/screenshot-3.png)
-![Review Panel](screenshots/screenshot-4.png)
-
-*(Replace the above paths with your actual screenshot file names)*
-
----
-
-## Tech Stack
-
-- **Frontend**: React, Bootstrap, MathJax
-- **API**: Gemini / OpenAI (via `generateMCQs()` utility)
-- **Routing**: React Router
-- **State Management**: React Hooks (`useState`, `useEffect`)
-- **Styling**: Bootstrap 5 and custom CSS
-
----
-
 ## Setup Instructions
 
 1. **Clone the Repository**
